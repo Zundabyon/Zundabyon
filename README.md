@@ -18,9 +18,9 @@
 </p>
 
 <p align="left">
-  <a href="https://zenn.dev/metappi"><img height="20" src="https://badgen.org/img/zenn/yutakatay/likes?style=plastic" alt="Likes" /></a>
-  <a href="https://zenn.dev/metappi"><img height="20" src="https://badgen.org/img/zenn/yutakatay/followers?style=plastic" alt="Followers" /></a>
-  <a href="https://zenn.dev/metappi"><img height="20" src="https://badgen.org/img/zenn/yutakatay/articles?style=plastic" alt="Articles" /></a>
+  <a href="https://zenn.dev/metappi"><img height="20" src="https://badgen.org/img/zenn/metappi/likes?style=plastic" alt="Likes" /></a>
+  <a href="https://zenn.dev/metappi"><img height="20" src="https://badgen.org/img/zenn/metappi/followers?style=plastic" alt="Followers" /></a>
+  <a href="https://zenn.dev/metappi"><img height="20" src="https://badgen.org/img/zenn/metappi/articles?style=plastic" alt="Articles" /></a>
   <a href="https://qiita.com/Zundabyon"><img src="https://badgen.org/img/qiita/Zundabyon/contributions?style=flat" alt="Contributions" /></a>
   <a href="https://qiita.com/Zundabyon"><img src="https://badgen.org/img/qiita/Zundabyon/articles?style=flat" alt="Articles" /></a>
 </p>
