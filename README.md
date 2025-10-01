@@ -41,12 +41,15 @@
 
 | | |
 |---:|:---|
-| **Role** | Programmer |
-| **Editor** | Neovim |
+| **Role** | EGG of Programmer |
+| **Editor** | VS CODE |
 | **Shell** | zsh |
 | **Terminal** | WezTerm |
-| **OS** | NixOS, ArchLinux(Hyprland), Android |
-| **PC** | Thinkpad, Lemur Pro, HHKB Hybrid , GameBall |
+| **OS** | Mac OS |
+| **PC** | MacBook Pro |
+| **DEVICE**|HHKB Professional HYBRID|
+| **FAVORITE**|VOICEVOX ZUNDAMON|
+| **GAMES**|風来のシレン FF DQ ELSENRING|
 
 ### Recent Activities
 
