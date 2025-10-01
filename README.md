@@ -4,9 +4,7 @@
   <a href="https://github.com/Zundabyon/Zundabyon/"><img src="https://komarev.com/ghpvc/?username=Zundabyon" alt="Zundabyon" /></a>
   <a href="https://github.com/Zundabyon"><img height="20" src="https://img.shields.io/github/followers/Zundabyon?label=follow&logo=github&style=flat" /></a>
   <a href="https://github.com/Zundabyon"><img height="20" src="https://img.shields.io/github/stars/Zundabyon?logo=github&style=flat" /></a>
-  <a href="https://gitstar-ranking.com/Zundabyon"><img height="20" src="https://img.shields.io/endpoint?label=star%20ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2FZundabyon%2Fshields" /></a>
-  <a href="https://user-badge.committers.top/japan/Zundabyon"><img height="20" src="https://user-badge.committers.top/japan/Zundabyon.svg" /></a>
-  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/japan.md"><img height="20" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FZundabyon%2FZundabyon%2Fmain%2Fassets%2Fgithub-followed-ranking.json&query=key&prefix=%23&label=followed%20rank&color=brightgreen&logo=github" /></a>
+ 
 </p>
 
 <p align="left"> 
