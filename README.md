@@ -11,10 +11,7 @@
 
 <p align="left"> 
   <a href="https://r.jina.ai/https://x.com/Zundabyon"><img height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fr.jina.ai%2Fhttp%3A%2F%2Fx.com%2FZundabyon&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs%2BFollowers&replace=%241&flags=ims&label=followers&logo=x&color=blue" /></a>
-  <a href="https://r.jina.ai/https://x.com/Zundabyon"><img height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fr.jina.ai%2Fhttp%3A%2F%2Fx.com%2FZundabyon&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs%2Bposts&replace=%241&flags=ims&label=posts&logo=x&color=blue" /></a>
-  <a href="https://bsky.app/profile/Zundabyon.github.io"><img src="https://badgen.org/img/bluesky/Zundabyon.github.io/followers?style=flat" alt="Followers" /></a>
-  <a href="https://bsky.app/profile/Zundabyon.github.io"><img src="https://badgen.org/img/bluesky/Zundabyon.github.io/posts?style=flat" alt="Posts" /></a>
- 
+  <a href="https://r.jina.ai/https://x.com/Zundabyon"><img height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fr.jina.ai%2Fhttp%3A%2F%2Fx.com%2FZundabyon&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs%2Bposts&replace=%241&flags=ims&label=posts&logo=x&color=blue" /></a> 
 </p>
 
 <p align="left">
