@@ -44,7 +44,7 @@
 | **PC** | MacBook Pro |
 | **DEVICE**|HHKB Professional HYBRID|
 | **FAVORITE**|VOICEVOX ZUNDAMON|
-| **GAMES**|風来のシレン FF DQ ELSENRING|
+| **GAMES**|風来のシレン FF DQ ELDENRING|
 
 ### Recent Activities
 
