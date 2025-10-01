@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Zundabyon
+## 👋 Hi! I'm Zundabyon　こんにちは！私はずんだびょんです！⭐️
 
 <p align="left"> 
   <a href="https://github.com/Zundabyon/Zundabyon/"><img src="https://komarev.com/ghpvc/?username=Zundabyon" alt="Zundabyon" /></a>
