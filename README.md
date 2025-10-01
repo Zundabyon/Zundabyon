@@ -44,7 +44,7 @@
 | **Role** | EGG of Programmer |
 | **Editor** | VS CODE |
 | **Shell** | zsh |
-| **Terminal** | WezTerm |
+| **Terminal** | ORIGINAL |
 | **OS** | Mac OS |
 | **PC** | MacBook Pro |
 | **DEVICE**|HHKB Professional HYBRID|
