@@ -21,14 +21,14 @@
   <a href="https://zenn.dev/metappi"><img height="20" src="https://badgen.org/img/zenn/metappi/likes?style=plastic" alt="Likes" /></a>
   <a href="https://zenn.dev/metappi"><img height="20" src="https://badgen.org/img/zenn/metappi/followers?style=plastic" alt="Followers" /></a>
   <a href="https://zenn.dev/metappi"><img height="20" src="https://badgen.org/img/zenn/metappi/articles?style=plastic" alt="Articles" /></a>
-  <a href="https://qiita.com/Zundabyon"><img src="https://badgen.org/img/qiita/Zundabyon/contributions?style=flat" alt="Contributions" /></a>
-  <a href="https://qiita.com/Zundabyon"><img src="https://badgen.org/img/qiita/Zundabyon/articles?style=flat" alt="Articles" /></a>
+  <a href="https://qiita.com/Zundabyon"><img src="https://badgen.org/img/qiita/metappi/contributions?style=flat" alt="Contributions" /></a>
+  <a href="https://qiita.com/Zundabyon"><img src="https://badgen.org/img/qiita/metappi/articles?style=flat" alt="Articles" /></a>
 </p>
 
 <p align="left"> 
   <a href="https://Zundabyon.github.io/"><img alt="homepage" width="30px" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/flat/home.svg" /></a>
   <a href="https://x.com/Zundabyon"><img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" /></a>
-  <a href="https://qiita.com/Zundabyon"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
+  <a href="https://qiita.com/metappi"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
   <a href="https://dev.to/Zundabyon" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Zundabyon" height="30" width="30" /></a>
   <a href="https://stackoverflow.com/users/Zundabyon" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Zundabyon" height="30" width="30" /></a>
   <a href="https://www.quora.com/profile/Zundabyon" target="blank"><img src="https://simpleicons.org/icons/quora.svg" alt="Zundabyon" height="30" width="30" /></a>
